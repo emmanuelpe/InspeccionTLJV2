@@ -5,13 +5,14 @@
 # Inspección Tlajomulco
 
 Sistema de gestión de infracciones de tlajomulco
-## Versión 1.3.3
+## Versión 1.3.3 19 de Agosto del 2022
 
 **Correcciones:**
-- No hubo correcciones.
+- Cuando actualizan o descargan datos si se queda sin Inspecotres dejar default el administrador
 
 **Mejoras:**
 - Nueva opción para actualizar la aplicación desde la app.
+- Realizar Actas de pruebas (modo tester).
 
 **Eliminaciones:**
 - No hubo eliminaciones.
