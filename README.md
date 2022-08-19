@@ -17,6 +17,17 @@ Sistema de gestión de infracciones de tlajomulco
 **Eliminaciones:**
 - No hubo eliminaciones.
 
+## Versión 1 15 de Agosto del 2022
+
+**Correcciones:**
+- No hubo coorrecciones
+
+**Mejoras:**
+- Subir PDF's de OV e Infraccion
+
+**Eliminaciones:**
+- No hubo eliminaciones.
+
 ## Información técnica
 
 **Entorno de Desarrollo Integrado:** Android Studio
