@@ -5,6 +5,17 @@
 # Inspección Tlajomulco
 
 Sistema de gestión de infracciones de tlajomulco
+## Versión 1.3.4 23 de Agosto del 2022
+
+**Correcciones:**
+- Cuando Imprimen/Reimprimen no se vuelve a generar PDF
+
+**Mejoras:**
+- 
+
+**Eliminaciones:**
+- No hubo eliminaciones.
+
 ## Versión 1.3.3 19 de Agosto del 2022
 
 **Correcciones:**
