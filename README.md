@@ -6,6 +6,16 @@
 
 Sistema de gestión de infracciones de tlajomulco
 
+## Versión 1.3.6 03 de Enero del 2023
+**Correcciones:**
+- Se agrega año con letra 2023
+
+**Mejoras:**
+- 
+
+**Eliminaciones:**
+- No hubo eliminaciones.
+
 ## Versión 1.3.5 30 de Diciembre del 2022
 **Correcciones:**
 - Se valida conexion a internet 
