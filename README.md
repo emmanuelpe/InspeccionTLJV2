@@ -6,6 +6,13 @@
 
 Sistema de gestión de infracciones de tlajomulco
 
+# Versión 1.3.7 04 de Enero del 2023
+**Correcciones:**
+- Se valida error de dedo en año letra orden de visita
+
+**Mejoras:**
+- 
+
 ## Versión 1.3.6 03 de Enero del 2023
 **Correcciones:**
 - Se agrega año con letra 2023
